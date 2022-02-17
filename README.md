@@ -12,7 +12,7 @@ The goal of this challenge is to be able to create a `static website` on AWS, in
 
 To complete this challenge, 2 ways are possible:
 
- - Either go through the GUI interface of AWS (SaaS), which is the easiest way to do and it's also more ergonomic. It also allows to get familiar with the interface.
+ - Either go through the GUI interface of `AWS` (SaaS), which is the easiest way to do and it's also more ergonomic. It also allows to get familiar with the interface.
 
  - Or by `CloudFormation` (IaaS), by directly integrating code templates (mainly in `YAML` or `JSON`) to gain in speed and efficiency. This method is clearly more **technical**. Mastering the AWS back-end command tool `CLI` and `SAM` are a must. 
 
