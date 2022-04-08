@@ -20,7 +20,8 @@ The result of my challenge can be found on this site : https://stanleycharles.me
 
 Beyond its Web 1.0 appearance, this website is **100% hosted** in the Cloud and includes in its structure services such as `S3`, `Lambda`, `API Gateway`, `DynamoDB` and `CloudFront` among others.
 
-This challenge was initiated by **Forrest Brazeal** and here's his Challenge in detail: - https://cloudresumechallenge.dev/docs/the-challenge/aws/  
+This challenge was initiated by **Forrest Brazeal** and here's his Challenge in detail: 
+  - https://cloudresumechallenge.dev/docs/the-challenge/aws/  
 
   ---
   
