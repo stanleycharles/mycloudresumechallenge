@@ -2,7 +2,7 @@
 
 ### Set up a Resume in the Cloud w/ AWS Step by Step.
 
-![This is an image](https://github.com/stanleycharles/mycloudresumechallenge/blob/main/aws-static-website-diagram.jpeg)
+![This is an image](https://github.com/stanleycharles/mycloudresumechallenge/blob/main/mycloudresumechallenge%20diagram.png)
 
 After getting my AWS certifications, I wanted to find some resources to improve my noob skillz and learn more about tools offered by the Amazon cloud solution.
 
